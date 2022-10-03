@@ -1,2 +1,0 @@
-# ChromeDriver
-chromedriver without selenium
